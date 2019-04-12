@@ -58,4 +58,3 @@ public class SimplifyPath {
         return stringBuilder.toString();
     }
 }
-vi .gitignore
