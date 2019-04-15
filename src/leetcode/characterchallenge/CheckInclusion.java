@@ -12,7 +12,7 @@ public class CheckInclusion {
             map[ch - 'a']++;
         }
         boolean result = false;
-        int left = 0, right = 0;
+        int left = 0, right;
         int len = s1.length();
         int counter = len;
         char[] ss = s2.toCharArray();
